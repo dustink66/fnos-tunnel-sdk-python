@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="fnos-tunnel",
-    version="1.0.0",
+    version="1.0.1",
     description="fnOS Cloudflare Tunnel SDK for Python",
     author="fnOS",
     packages=find_packages(),
